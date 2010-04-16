@@ -1,0 +1,39 @@
+Jogador 1, é a sua vez!
+
+(desenho do monstro)
+
+Pressione [enter] ...
+
+limpatela
+
+pontos de vida: x
+pontos de magia: y
+
+1 ataque fisico
+2 ataque magico
+...
+opcao: 
+
+limpatela
+
+
+(animacoes que eu vou fazer usando os desenhos e 'pressione enter...' )
+
+BAFO DE CEBOLAAAA!!!!!
+
+O jogador 2 perdeu x pontos de vida
+
+Pressione enter...
+
+limpatela
+
+Jogador 2, é a sua vez...
+
+...
+...
+...
+
+
+o #{monstrodojogador2} morreu. O jogador 1 é o vencedor.
+
+monstra carinha feliz
